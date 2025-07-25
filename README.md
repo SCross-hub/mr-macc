@@ -13,20 +13,22 @@ An AI-powered assistant that authentically mimics your personal texting style to
 - **Mobile-First UI:** Enjoy a modern, minimal interface optimized for speed and usability.
 
 ## MVP Project Structure
+```
 /
 ├── frontend/
-│ ├── components/
-│ ├── pages/
-│ └── styles/
+│   ├── components/
+│   ├── pages/
+│   └── styles/
 ├── backend/
-│ ├── api/
-│ ├── db/
-│ └── services/
+│   ├── api/
+│   ├── db/
+│   └── services/
 ├── shared/
 ├── tests/
 ├── .eslintrc
 ├── .prettierrc
 └── README.md
+```
 
 
 ## Code Style
