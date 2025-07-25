@@ -39,7 +39,7 @@ An AI-powered assistant that authentically mimics your personal texting style to
 ## Getting Started
 
 1. Clone the repo:  
-   `git clone https://github.com/yourusername/yourrepo.git`
+   `git clone https://github.com/SCross-hub/mr-macc.git`
 2. Install dependencies:  
    `npm install`
 3. Run the development server:  
